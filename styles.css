@@ -1,0 +1,15 @@
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+h1 {
+    background-color: white;
+}
+<body>
+    <header class="cabeçalho">
+        <span class="cabeçalho__menu-hamburguer"></span>
+        <img src="img/Logo.svg" alt="Logo da AluraBooks">
+        <a href="#"><img src="img/Favoritos.svg" alt="Meus favoritos"></a>
+        <a href="#"><img src="img/Compras.svg" alt="Carrinho de compras"></a>
+        <a href="#"><img src="img/Usuario.svg" alt="Meu perfil"></a>
+    </header>
+</body>
